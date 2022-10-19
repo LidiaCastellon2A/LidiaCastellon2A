@@ -1,14 +1,9 @@
 # Hi, my name is Lidia Castellón✨
-### And Im an 3D character artist and currently I'm a student in [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
+### And Im an 3D character artist and currently I'm a student in [<img src="https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fde30af071ee146b3bd977ce699add883.png&q=0.8&m=fit&w=400&h=200" width=48>](https://www.cevbarcelona.com/)
 ![Uploading image.png…](https://cdna.artstation.com/p/assets/images/images/050/519/040/large/m-x-k-a-1b-lidiacastellon-final-002.jpg?1655207710)
 
 [![Artstation](https://img.shields.io/badge/ArtStation-FFFFFF?logo=Artstation)](https://www.artstation.com/mxka)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?logo=Instagram)](https://www.instagram.com/x.mxka.exe/)
-
-
-[![Instagram Follow](https://img.shields.io/instagram/follow/x.mxka.exe?style=social)](https://www.instagram.com/x.mxka.exe/)
-![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
 
 ## Here are some of the softwares that I use:
 
