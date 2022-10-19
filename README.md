@@ -25,19 +25,19 @@
 	</a>
 	</td>
   <td>
-	<a href="https://www.labyrinthinegame.com/">
+	<a href="https://www.leagueoflegends.com/">
   		<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_40.jpg">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
-	<a href="https://pokemonmasters-game.com/">
+	<a href="https://www.leagueoflegends.com/">
   		<img src="https://cdngarenanow-a.akamaihd.net/webmain/static/pss/lol/items_splash/jhin_23.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://disneymirrorverse.com/">
+	<a href="https://www.leagueoflegends.com/">
   		<img src="https://esports.as.com/2021/05/14/league-of-legends/Morgana_1464463554_673844_1440x810.jpg">
 	</a>
 	</td>
@@ -45,13 +45,13 @@
     </tr>
     <tr>
     <td>
-	<a href="https://www.devourgame.com/">
+	<a href="https://www.leagueoflegends.com/">
   		<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_44.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+	<a href="https://www.leagueoflegends.com/">
+  		<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_15.jpg">
 	</a>
   </tr>
 </table>
