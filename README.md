@@ -1,4 +1,4 @@
-# Hola, my name is Lidia Castellón ✨
+# Hi, my name is Lidia Castellón✨
 ### And Im an 3D and videogames student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 [![Uploading image.png…](https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/koocachookies_github_profile.png)](https://github.com/danigomezcev])
 
