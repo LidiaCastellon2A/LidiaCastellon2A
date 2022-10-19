@@ -22,7 +22,7 @@
   <tr>
   <td>
 	<a href="https://www.leagueoflegends.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
+  		<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_20.jpg">
 	</a>
 	</td>
   <td>
