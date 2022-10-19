@@ -16,7 +16,7 @@
 [![Maya](https://img.shields.io/badge/Github_Desktop-EA84E8?style=for-the-badge&logo=github&logoColor=white&labelColor=871585)]()
 <br>
 
-## And here there are some of the games that I usually play to in my spare time:
+## And here there are some of the champs that I usually play in League of Legends:
 
 <table style="width:100%">
   <tr>
