@@ -1,9 +1,9 @@
 # Hi, my name is Lidia Castellón✨
 ### And Im an 3D character artist and currently I'm a student in [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
-[![Uploading image.png…](https://cdna.artstation.com/p/assets/images/images/050/519/040/large/m-x-k-a-1b-lidiacastellon-final-002.jpg?1655207710)
+![Uploading image.png…](https://cdna.artstation.com/p/assets/images/images/050/519/040/large/m-x-k-a-1b-lidiacastellon-final-002.jpg?1655207710)
 
-[![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
+[![ArtStation Status]([https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies](https://www.artstation.com/mxka))
+[![Instagram Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
 ![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
 
