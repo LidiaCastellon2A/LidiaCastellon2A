@@ -27,14 +27,14 @@
 	</td>
   <td>
 	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+  		<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_40.jpg">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
 	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+  		<img src="https://cdngarenanow-a.akamaihd.net/webmain/static/pss/lol/items_splash/jhin_23.jpg">
 	</a>
 	</td>
 	<td>
