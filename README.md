@@ -39,7 +39,7 @@
 	</td>
 	<td>
 	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+  		<img src="https://esports.as.com/2021/05/14/league-of-legends/Morgana_1464463554_673844_1440x810.jpg">
 	</a>
 	</td>
 	</td>
@@ -47,7 +47,7 @@
     <tr>
     <td>
 	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
+  		<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_44.jpg">
 	</a>
 	</td>
 	<td>
