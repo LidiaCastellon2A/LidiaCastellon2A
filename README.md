@@ -5,16 +5,16 @@
 [![Artstation](https://img.shields.io/badge/ArtStation-FFFFFF?logo=Artstation)](https://www.artstation.com/mxka)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?logo=Instagram)](https://www.instagram.com/x.mxka.exe/)
 
-### I love modeling in ZBrush and usually I'm drawing characters and cute things 💜 I love stars and constellations. I'm very passionate about esports and videogames ✨
+### I love modeling in ZBrush and usually I'm drawing characters and cute things 💜 I love stars and constellations. I'm very passionate about esports and videogames ✨ I'm currently reading **The Name of the Wind** saga and watching Chainsaw Man serie!
 
 
 ## Here are some of the softwares that I use:
 
-[![ZBrush](https://img.shields.io/badge/Pixologic_ZBrush-999999?style=for-the-badge&logo=zbrushbypixologic&logoColor=white&labelColor=101010)]()
+[![ZBrush](https://img.shields.io/badge/Pixologic_ZBrush-999999?style=for-the-badge&logo=zotero&logoColor=white&labelColor=101010)]()
 <br>
-[![Photoshop](https://img.shields.io/badge/Photosop-7F7AC9?style=for-the-badge&logo=adobepjuyghhotoshop&logoColor=white&labelColor=262076)]()
+[![Photoshop](https://img.shields.io/badge/Photosop-7F7AC9?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=262076)]()
 <br>
-[![Maya](https://img.shields.io/badge/MAYA-EA84E8?style=for-the-badge&logo=maya&logoColor=white&labelColor=871585)]()
+[![Maya](https://img.shields.io/badge/MAYA-EA84E8?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=871585)]()
 <br>
 
 ## And here there are some of the champs that I usually play in League of Legends:
