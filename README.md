@@ -5,6 +5,8 @@
 [![Artstation](https://img.shields.io/badge/ArtStation-FFFFFF?logo=Artstation)](https://www.artstation.com/mxka)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?logo=Instagram)](https://www.instagram.com/x.mxka.exe/)
 
+## I love modeling in ZBrush and usually I'm drawing characters and cute things 💜 I love stars and constellations. I'm very passionate about esports and videogames ✨
+
 ## Here are some of the softwares that I use:
 
 [![ZBrush](https://img.shields.io/badge/Pixologic_ZBrush-999999?style=for-the-badge&logo=zbrushbypixologic&logoColor=white&labelColor=101010)]()
