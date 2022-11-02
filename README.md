@@ -10,11 +10,11 @@
 
 ## Here are some of the softwares that I use:
 
-[![ZBrush](https://img.shields.io/badge/Pixologic_ZBrush-999999?style=for-the-badge&logo=zotero&logoColor=white&labelColor=101010)]()
+[![ZBrush](https://img.shields.io/badge/Pixologic_ZBrush-999999?style=for-the-badge&logo=zotero&logoColor=white&labelColor=101010)](https://pixologic.com/)
 <br>
-[![Photoshop](https://img.shields.io/badge/Photosop-7F7AC9?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=262076)]()
+[![Photoshop](https://img.shields.io/badge/Photosop-7F7AC9?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=262076)](https://www.adobe.com/products/photoshop.html)
 <br>
-[![Maya](https://img.shields.io/badge/MAYA-EA84E8?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=871585)]()
+[![Maya](https://img.shields.io/badge/MAYA-EA84E8?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=871585)](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription)
 <br>
 
 ## And here there are some of the champs that I usually play in League of Legends:
